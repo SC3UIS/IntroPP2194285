@@ -11,7 +11,6 @@
 module load devtools/gcc/6.2.0
 module load devtools/mpi/openmpi/3.1.4
 
-
 ## Se compilan los archivos "summaSimple.c", "mpi_summaSimple.c", "omp_summaSimple.c" 
 gcc summaSimple.c -o summaSimple
 gcc -fopenmp omp_summaSimple.c -o omp_summaSimple
