@@ -1,3 +1,8 @@
+// From https://www.programiz.com/c-programming/c-for-loop 
+// Modified by Fabian Sanchez and Wilmer Farfan for learning purposes 2023
+// Simple Program to calculate the sum of first n natural numbers parallelized with CUDA
+// Positive integers 1,2,3...n are known as natural numbers
+
 #include <stdio.h>
 #include <time.h>
 
