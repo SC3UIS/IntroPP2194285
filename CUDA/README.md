@@ -21,5 +21,6 @@ De acuerdo con los tiempos de ejecución en segundos, se obtuvieron los siguient
 |-------------|----------|----------|----------|
 | summaSimple | 0.005825 | 3.721245 | 0.120000 |
 
+Por lo cuál para este ejercicio en concreto, se aprecia un buen tiempo de ejecución y una mejora considerable respecto a MPI. Sin embargo el más rápido y eficiente en términos de velocidad sigue siendo la primera herramienta utilizada OpenMP.
 
 
