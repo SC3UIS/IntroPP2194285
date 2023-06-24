@@ -1,0 +1,4 @@
+
+Suma de los primeros n numeros naturales (Paralelizado con CUDA)
+Ingrese un Entero Positivo: 245 Suma Total = 30135
+La ejecucion tardo 0.120000 segundos
