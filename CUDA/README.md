@@ -1,4 +1,4 @@
-## Tercer Taller - Grupo3: Wilmer Farfán y Fabian Sánchez
+# Tercer Taller - Grupo3: Wilmer Farfán y Fabian Sánchez
 
 Los tres códigos presentados utilizan diferentes tecnologías para paralelizar el cálculo de la suma de los primeros n números naturales. A continuación, se analizarán las diferencias entre cada enfoque y se discutirá cuál podría considerarse mejor en función de ciertos criterios.
 
@@ -17,9 +17,9 @@ En cuanto a cuál de las anteriores herramientas es mejor, su elección depende 
 - Si se dispone de una GPU compatible con CUDA y la aplicación es altamente paralela y adecuada para la aceleración de GPU, la opción de CUDA puede ofrecer el mayor rendimiento.
 
 De acuerdo con los tiempos de ejecución en segundos, se obtuvieron los siguientes valores: 
-| Comparativa | OpenMP | MPI | CUDA |
-| summaSimple |0.005825|3.721245|0.120000|
-
+| Comparativa |  OpenMP  |    MPI   |   CUDA   |
+|-------------|----------|----------|----------|
+| summaSimple | 0.005825 | 3.721245 | 0.120000 |
 
 
 
