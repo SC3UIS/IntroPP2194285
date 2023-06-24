@@ -1,4 +1,5 @@
-# Tercer Taller - Grupo3: Fabian Sánchez 2194284 y Wilmer Farfán 2194285
+# Tercer Taller - Grupo3 
+## Fabian Sánchez 2194284 y Wilmer Farfán 2194285
 
 Los tres códigos presentados utilizan diferentes tecnologías para paralelizar el cálculo de la suma de los primeros n números naturales. A continuación, se analizarán las diferencias entre cada enfoque y se discutirá cuál podría considerarse mejor en función de ciertos criterios.
 
